@@ -83,9 +83,61 @@ Focus:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,react,nodejs,postgres,mongodb,git,github,vscode,docker,linux" />
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=python" width="55"/>
+<br>Python
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=fastapi" width="55"/>
+<br>FastAPI
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=react" width="55"/>
+<br>React
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=nodejs" width="55"/>
+<br>Node.js
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=postgres" width="55"/>
+<br>PostgreSQL
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mongodb" width="55"/>
+<br>MongoDB
+</td>
+</tr>
 
-<img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch" />
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=git" width="55"/>
+<br>Git
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
+<br>GitHub
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=vscode" width="55"/>
+<br>VS Code
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=docker" width="55"/>
+<br>Docker
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=linux" width="55"/>
+<br>Linux
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="55"/>
+<br>TensorFlow
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -185,6 +237,8 @@ Focus:
 
 # 📊 GitHub Analytics
 
+> ⚠️ If GitHub stats or snake animation do not appear immediately, wait a few minutes after pushing the README and ensure GitHub Actions are enabled.
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=AnshulBhaisare&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" />
@@ -200,16 +254,6 @@ Focus:
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=AnshulBhaisare&theme=tokyonight&hide_border=true&background=0D1117" />
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AnshulBhaisare&theme=algolia&no-frame=true&row=1&column=6" />
 
 </div>
 
@@ -263,8 +307,6 @@ Code. Build. Automate. Innovate.
 ---
 
 <div align="center">
-
-## ⚡ ANSHUL // AI ENGINEER ⚡
 
 ### Building Intelligent Systems For The Future
 
