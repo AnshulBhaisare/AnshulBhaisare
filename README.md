@@ -12,13 +12,10 @@
 
 ---
 
-<div align="center">
+<table>
+<tr>
 
-<img src="./assets/ai-coder.gif" width="700" alt="AI Engineer GIF"/>
-
-</div>
-
----
+<td width="55%" valign="top">
 
 # 👨‍💻 About Me
 
@@ -26,6 +23,7 @@
 Name: Anshul Bhaisare
 Role: AI Engineer
 Location: Pune, Maharashtra, India
+
 Focus:
   - RAG Systems
   - AI Automation
@@ -48,6 +46,17 @@ Focus:
 * Intelligent SaaS Systems
 * AI Automation Pipelines
 * Full Stack AI Products
+
+</td>
+
+<td width="45%" align="center" valign="middle">
+
+<img src="./assets/ai-coder.gif" width="100%" alt="AI Engineer GIF"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -89,22 +98,27 @@ Focus:
 <img src="https://skillicons.dev/icons?i=python" width="55"/>
 <br>Python
 </td>
+
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=fastapi" width="55"/>
 <br>FastAPI
 </td>
+
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=react" width="55"/>
 <br>React
 </td>
+
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=nodejs" width="55"/>
 <br>Node.js
 </td>
+
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=postgres" width="55"/>
 <br>PostgreSQL
 </td>
+
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=mongodb" width="55"/>
 <br>MongoDB
@@ -112,30 +126,37 @@ Focus:
 </tr>
 
 <tr>
+
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=git" width="55"/>
 <br>Git
 </td>
+
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=github" width="55"/>
 <br>GitHub
 </td>
+
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=vscode" width="55"/>
 <br>VS Code
 </td>
+
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=docker" width="55"/>
 <br>Docker
 </td>
+
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=linux" width="55"/>
 <br>Linux
 </td>
+
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=tensorflow" width="55"/>
 <br>TensorFlow
 </td>
+
 </tr>
 </table>
 
@@ -236,8 +257,6 @@ Focus:
 ---
 
 # 📊 GitHub Analytics
-
-> ⚠️ If GitHub stats or snake animation do not appear immediately, wait a few minutes after pushing the README and ensure GitHub Actions are enabled.
 
 <div align="center">
 
