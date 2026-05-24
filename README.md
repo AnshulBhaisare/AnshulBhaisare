@@ -50,11 +50,7 @@ Focus:
 
 💡 AI & Data Science undergraduate passionate about building intelligent software systems using modern AI technologies, automation workflows, and full-stack engineering.
 
-<br>
-
 ⚡ I enjoy transforming complex ideas into practical AI-powered products with futuristic user experiences.
-
-<br>
 
 🧠 Strong interest in:
 
