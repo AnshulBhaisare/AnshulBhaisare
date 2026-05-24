@@ -285,15 +285,6 @@ Focus:
 
 ---
 
-# ⚡ Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=AnshulBhaisare&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
 
 # ⚡ Contribution Streak
 
