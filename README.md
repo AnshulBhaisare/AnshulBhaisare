@@ -14,14 +14,14 @@
 
 <div align="center">
 
-<table border="0">
-<tr border="0">
+<table style="border:none;border-collapse:collapse;">
+<tr style="border:none;">
 
-<td width="50%" valign="top" border="0">
+<td width="50%" valign="top" style="border:none;">
 
 # 👨‍💻 About Me
 
-```yaml
+```yaml id="2khf9t"
 Name: Anshul Bhaisare
 Role: AI Engineer
 Location: Pune, Maharashtra, India
@@ -35,9 +35,23 @@ Focus:
   - Voice AI Systems
 ```
 
+💡 AI & Data Science undergraduate passionate about building intelligent software systems using modern AI technologies, automation workflows, and full-stack engineering.
+
+⚡ I enjoy transforming complex ideas into practical AI-powered products with futuristic user experiences.
+
+🧠 Strong interest in:
+
+* AI Agents
+* RAG Architectures
+* LLM Applications
+* Voice Assistants
+* Intelligent SaaS Systems
+* AI Automation Pipelines
+* Full Stack AI Products
+
 </td>
 
-<td width="50%" align="center" valign="middle" border="0">
+<td width="50%" align="center" valign="middle" style="border:none;">
 
 <img src="./assets/ai-coder.gif" width="95%" alt="AI Engineer GIF"/>
 
@@ -299,7 +313,7 @@ Focus:
 
 <div align="center">
 
-```text
+```text id="0b7m2k"
 Code. Build. Automate. Innovate.
 ```
 
