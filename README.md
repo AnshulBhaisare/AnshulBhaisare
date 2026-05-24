@@ -1,7 +1,7 @@
 # <div align="center">⚡ ANSHUL // AI ENGINEER ⚡</div>
 
 <div align="center">
-  <img src="./assets/banner.png" alt="Anshul Banner" width="100%"/>
+  <img src="./assets/banner1.png" alt="Anshul Banner" width="100%"/>
 </div>
 
 <div align="center">
