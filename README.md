@@ -35,6 +35,17 @@ Focus:
   - Voice AI Systems
 ```
 
+
+</td>
+
+<td width="50%" align="center" valign="middle" style="border:none;">
+
+<img src="./assets/ai-coder.gif" width="95%" alt="AI Engineer GIF"/>
+
+</td>
+
+</tr>
+</table>
 💡 AI & Data Science undergraduate passionate about building intelligent software systems using modern AI technologies, automation workflows, and full-stack engineering.
 
 ⚡ I enjoy transforming complex ideas into practical AI-powered products with futuristic user experiences.
@@ -48,17 +59,6 @@ Focus:
 * Intelligent SaaS Systems
 * AI Automation Pipelines
 * Full Stack AI Products
-
-</td>
-
-<td width="50%" align="center" valign="middle" style="border:none;">
-
-<img src="./assets/ai-coder.gif" width="95%" alt="AI Engineer GIF"/>
-
-</td>
-
-</tr>
-</table>
 
 </div>
 
