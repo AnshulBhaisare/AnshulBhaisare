@@ -272,28 +272,25 @@ Focus:
 * Application scalability
 
 ---
-
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnshulBhaisare&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AnshulBhaisare&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshulBhaisare&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshulBhaisare&layout=compact&theme=radical&hide_border=true" />
 
 </div>
 
 ---
 
-
 # ⚡ Contribution Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=AnshulBhaisare&theme=tokyonight&hide_border=true&background=0D1117" />
+<img width="70%" src="https://streak-stats.demolab.com?user=AnshulBhaisare&theme=radical&hide_border=true" />
 
 </div>
-
 ---
 
 # 🐍 Contribution Snake
